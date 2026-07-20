@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Dongming 👋
 
-<!--
-**DonoghZZZ/DonoghZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI tools for healthcare, learning and knowledge work.
 
-Here are some ideas to get you started:
+My work focuses on turning complex information into clear, usable and visually structured digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m interested in
+
+- AI-assisted healthcare workflows
+- Knowledge management and learning systems
+- Lightweight web products and automation
+- Presentation and information design
+
+## What I’m building
+
+- Digital tools for healthcare communication and follow-up
+- AI-assisted workflows for structured learning and spaced repetition
+- Practical systems for turning raw content into clear presentations and visual materials
+
+## Currently exploring
+
+- Building useful products with AI coding agents
+- Converting professional knowledge into reusable digital tools
+- Designing clearer interfaces for complex information
+
+## Selected work
+
+My featured projects will be added here as they are refined and documented.
+
+---
+
+**Based in Tianjin, China**
